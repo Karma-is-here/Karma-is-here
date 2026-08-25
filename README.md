@@ -1,5 +1,6 @@
 # Vanshika Kaushik
 If you found your way here, you probably went down a mildly specific rabbit hole.
+
 `CSE @ IGDTUW` · `MS Financial Engineering @ WorldQuant University`
 
 ### Currently building
