@@ -4,7 +4,7 @@ If you found your way here, you probably went down a mildly specific rabbit hole
 `CSE @ IGDTUW` · `MS Financial Engineering @ WorldQuant University`
 
 ### Currently building
-| Project                           | What I'm up to                                                              |
+| Project                           | Projection                                                                  |
 | --------------------------------- | --------------------------------------------------------------------------- |
 | **DSA-My-Way**                    | Learning DSA without treating LeetCode like a memory test.                  |
 | **orderbook** *(private)*         | Building a little piece of a trading system in C++.                         |
